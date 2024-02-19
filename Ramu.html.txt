@@ -1,0 +1,148 @@
+<html>
+    <head>
+        <title>Resume Website Template</title>
+        <link rel="stylesheet" href="style.css.txt">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+    </head>
+    <body>
+        <section id="header">
+            1<div class ="container text-center">
+                <div class="user-box">
+                    <img src="RK.jpg">
+                    <h1>RamaKrishna</h1>
+                    <p>Web Developer</p>
+                </div>
+            </div>
+            <div class="scroll-btn">
+                <div class="scroll-bar"><a href=""><span> </span></a></div>
+            </div>
+        </section>
+        <section id="user-info">
+            <div class="nav-bar">
+            <nav class="navbar navbar-expand-lg">
+                <a class="navbar-brand" href="#">Navbar</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                  <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                      <a class="nav-link" href="#">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">ABOUT ME</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">RESUME</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">SERVICES</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">CONTACT</a>
+                   </li>
+                  </ul>
+                </div>
+            </nav>
+            </div>
+              <div class="about container" id="about">
+              <div class="row">
+                <div class="col-md-6 text-center"></div>
+                
+              </div>
+              <div class="col-md-6">
+                <h3>WHO AM I</h3>
+                <p>
+                    I am a undergraduate student studying B.tech at SRM University. With a passion for Computer Science, I am eager to apply my knowledge and skills to future career goals or aspirations. I have developed strong skills in research, critical thinking, communication and I am committed to continuous learning and growth. My goal is to achieve my dream job and professional journey"
+                </p>
+                <div class="skills-bar">
+                    <p>Adobe Photoshop</p>
+                    <div class="progress" >
+                        <div class="progress-bar" style="width:80%;">80%</div>
+                    </div>
+                    <p>UI Design</p>
+                    <div class="progress" >
+                        <div class="progress-bar" style="width:70%;">70%</div>
+                    </div>
+                    <p>Word Press</p>
+                    <div class="progress" >
+                        <div class="progress-bar" style="width:85%;">85%</div>
+                    </div>
+                    <p>Graphic Design</p>
+                    <div class="progress" >
+                        <div class="progress-bar" style="width:75%;">75%</div>
+                    </div>
+                </div>
+              </div>
+              </div>
+              <div class="resume" id="resume">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h3 class="text-center"> My Eduction</h3>
+                            <ul >
+                                <li>
+                                    <h4>2019-2020 Secondary Highschool</h4>
+                                    <b>DR.KKr's Gowtham School</b>
+                                    <br>Cgpa:9.0</br>
+                                </li>
+                            </ul>
+                            <ul>
+                                <li>
+                                    <h4>2020-2022 Intermediate</h4>
+                                    <b>Narayana Jr College</b>
+                                    <br>Cgpa:8.5</br>
+                                </li>
+                            </ul>
+                            <ul>
+                                <li>
+                                    <h4>2022-2026 B.Tech</h4>
+                                    <b>SRM University AP</b>
+                                    <br>Cgpa:7.0</br>
+                                </li>
+                            <h5 class="text-center">MY Projects</h5>
+                            <ul class ="timeline" >
+                                <li>Making train tickets in online using C</li>
+                                <li>Making a scientific Calculator using C</li>
+                                <li>Making a Billing System in C++</li>
+                            </ul>
+
+                            <h6 class="text-center" > MY Certifications</h6>
+                            <ul class ="timeline">
+                                <li>Joy of Computing Python in NPTL Swayam</li>
+                                <li>Introduction to languages and linguistics in NPTL Swayam</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+              </div>
+              <div class="contact" id="contact">
+                <div class="container text-center">
+                    <h1>Contact Me</h1>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <i class="fa fa-phone"></i>
+                            <p>+91 9032025651</p>
+                        </div>
+                        <div class="col-md-4">
+                            <i class="fa fa-envelope"></i>
+                            <p>ramulavu2004@gmail.com</p>
+                        </div>
+
+                    </div>
+                </div>
+              </div>
+        </section>
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
